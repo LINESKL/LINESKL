@@ -54,14 +54,9 @@
 ## Технологический стек
 
 <div align="center">
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,nestjs&theme=dark" />
-  
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
-  
-  <h3>Data & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,githubactions,figma&theme=dark" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Python+%2B+FastAPI+Backend;NestJS+%26+TypeScript+Architecture;React+%2B+Next.js+Frontend;AWS+%2B+Docker+Infrastructure" alt="Typing SVG" />
+</a>
 </div>
 
 ---
