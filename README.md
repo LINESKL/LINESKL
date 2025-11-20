@@ -9,11 +9,10 @@
 
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Python+%2B+FastAPI+Backend;NestJS+%26+TypeScript+Architecture;React+%2B+Next.js+Frontend;AWS+%2B+Docker+Infrastructure" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?      font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Python+%2B+FastAPI+Backend;NestJS+%26+TypeScript+Architecture;React+%2B+Next.js+Frontend;AWS+%2B+Docker+Infrastructure" alt="Typing   SVG" />
+  </a>
 </div>
----
 
 ## О себе
 
@@ -58,9 +57,14 @@
 ## Технологический стек
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white" />
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,nestjs&theme=dark" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
+  
+  <h3>Data & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,githubactions,figma&theme=dark" />
 </div>
 
 ---
