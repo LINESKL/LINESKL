@@ -54,36 +54,14 @@
 ## Технологический стек
 
 <div align="center">
-
-<!-- BACKEND & LANGUAGES -->
-<h3>Backend & Languages</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-
-<!-- FRONTEND -->
-<h3>Frontend Development</h3>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
-<!-- DATABASES & MESSAGING -->
-<h3>Data & Messaging</h3>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<br>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-
-<!-- DEVOPS & TOOLS -->
-<h3>DevOps & Tools</h3>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,nestjs&theme=dark" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
+  
+  <h3>Data & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,githubactions,figma&theme=dark" />
 </div>
 
 ---
