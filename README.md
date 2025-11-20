@@ -4,6 +4,7 @@
 
 ### Fullstack Developer | Software Engineering Student
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lineskl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lineskl.aliar@@gmail.com)
 
 </div>
@@ -13,7 +14,7 @@
 ## О себе
 
 <p align="justify">
-  Я Fullstack разработчик. Специализируюсь в Backend направлении FastAPI и NestJS. 
+  Я начинающий <b>Fullstack-разработчик</b> и студент AlmaU/2 курс. Меня увлекает создание веб-приложений с нуля: от продумывания логики базы данных до верстки удобного интерфейса. В своих проектах я фокусируюсь на чистом коде и изучении лучших практик (Best Practices). Сейчас активно углубляюсь в NestJS, чтобы создавать быстрые и масштабируемые решения.
 </p>
 
 ---
