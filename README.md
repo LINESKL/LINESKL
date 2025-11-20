@@ -62,10 +62,10 @@
   <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nestjs&theme=dark" />
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,kotlin&theme=dark" />
   
   <h3>Data & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,githubactions,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,figma&theme=dark" />
 
 </div>
 
