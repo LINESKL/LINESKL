@@ -59,7 +59,7 @@
 
 <div align="center">
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nestjs&theme=dark" />
   
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
