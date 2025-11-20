@@ -27,10 +27,11 @@
 
 <p align="justify">
 • Разработка SSR на NextJS<br>
-• REST API<br>
 • Работа с базами данных PostgreSQL<br>
 • Настройка CI/CD пайплайнов<br>
 • Backend на NextJS<br>
+• Деплой на сервер
+
 </p>
 
 ---
