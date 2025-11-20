@@ -66,6 +66,9 @@
   
   <h3>Data & Infrastructure</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq,docker,aws,githubactions,figma&theme=dark" />
+
+  <h3>Mobile Dev</h3>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
 </div>
 
 ---
