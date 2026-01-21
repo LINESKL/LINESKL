@@ -92,10 +92,10 @@ const currentGoals = {
 <div align="center">
   
   <h3>💻 Backend & Languages</h3>
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,fastapi,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,fastapi&theme=dark" />
   
   <h3>🎨 Frontend & Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,kotlin,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,figma&theme=dark" />
   
   <h3>🗄️ Databases & Caching</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
