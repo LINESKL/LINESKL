@@ -12,14 +12,14 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+%2B+DevOps+Engineer;NestJS+%26+TypeScript+Architecture;Next.js+%2B+React+Development;AWS+%2B+Docker+Infrastructure;Python+%2B+FastAPI+Backend;PostgreSQL+%2B+Redis+%2B+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+%2B+DevOps+Engineer;Java+Spring+Boot+Architecture;Next.js+%2B+React+Development;AWS+%2B+Docker+Infrastructure;Python+%2B+FastAPI+Backend;PostgreSQL+%2B+Redis+%2B+MongoDB" alt="Typing SVG" />
 </a>
 </div>
 
 ## 👨‍💻 О себе
 
 <p align="justify">
-  Я <b>Backend/DevOps разработчик</b> и студент AlmaU, специализирующийся на разработке Enterprise-решений. Увлекаюсь созданием масштабируемых веб-приложений с нуля: от проектирования архитектуры баз данных до разработки высокопроизводительных API. В своих проектах я придерживаюсь принципов SOLID, Clean Code и активно изучаю best practices современной разработки. Сейчас фокусируюсь на углубленном изучении NestJS и микросервисной архитектуры для создания отказоустойчивых систем.
+  Я <b>Backend/DevOps разработчик</b> и студент AlmaU, специализирующийся на разработке Enterprise-решений. Увлекаюсь созданием масштабируемых веб-приложений с нуля: от проектирования архитектуры баз данных до разработки высокопроизводительных API. В своих проектах я придерживаюсь принципов SOLID, Clean Code и активно изучаю best practices современной разработки. Сейчас фокусируюсь на углубленном изучении Java Spring Boot и микросервисной архитектуры для создания отказоустойчивых систем.
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🎯 Ключевые компетенции
 
 ### Backend Development
-- **NestJS/TypeScript**: Microservices, REST API, GraphQL, WebSockets
+- **Java/Spring Boot**: Microservices, REST API, Spring Security, Spring Data JPA
 - **Python/FastAPI**: Высокопроизводительные асинхронные API
 - **Базы данных**: PostgreSQL, MongoDB, Redis (кэширование, очереди)
 - **Message Brokers**: RabbitMQ, Apache Kafka для event-driven архитектуры
@@ -92,7 +92,7 @@ const currentGoals = {
 <div align="center">
   
   <h3>💻 Backend & Languages</h3>
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,gradle&theme=dark" />
   
   <h3>🎨 Frontend & Mobile</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,figma&theme=dark" />
