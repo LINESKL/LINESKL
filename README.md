@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
   
   <h3>🚀 DevOps & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,gitlab&theme=dark" />
   
   <h3>📡 Message Queues & Tools</h3>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,grafana,prometheus&theme=dark" />
