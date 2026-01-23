@@ -16,7 +16,7 @@
 </a>
 </div>
 
-## 👨‍💻 О себе
+## О себе
 
 <p align="justify">
   Я <b>Backend/DevOps разработчик</b>, специализирующийся на разработке Enterprise-решений. В своих проектах я придерживаюсь принципов SOLID, Clean Code и активно изучаю best practices современной разработки. 
@@ -24,7 +24,7 @@
 
 ---
 
-## 💼 Профессиональный опыт
+## Профессиональный опыт
 
 ### Агентство по регулированию и развитию финансового рынка РК (АРРФР)
 **Full-Stack Developer** | *2024 - 2025*
@@ -53,30 +53,30 @@
 
 ---
 
-## 🛠️ Технологический стек
+## Технологический стек
 
 <div align="center">
   
-  <h3>💻 Backend & Languages</h3>
+  <h3>Backend & Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,gradle&theme=dark" />
   
-  <h3>🎨 Frontend & Mobile</h3>
+  <h3>Frontend & Mobile</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,figma&theme=dark" />
   
-  <h3>🗄️ Databases & Caching</h3>
+  <h3>Databases & Caching</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
   
-  <h3>🚀 DevOps & Infrastructure</h3>
+  <h3>DevOps & Infrastructure</h3>
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,gitlab&theme=dark" />
   
-  <h3>📡 Message Queues & Tools</h3>
+  <h3>Message Queues & Tools</h3>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,grafana,prometheus&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Текущий фокус
+## Текущий фокус
 
 ```typescript
 const currentGoals = {
@@ -100,13 +100,13 @@ const currentGoals = {
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 <div align="center">
 
 **Открыт для интересных проектов, фриланса и сотрудничества**
 
-💡 *Готов обсудить backend-разработку, DevOps-решения и архитектуру систем*
+*Готов обсудить backend-разработку, DevOps-решения и архитектуру систем*
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lineskl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lineskl.aliar@gmail.com)
@@ -114,6 +114,6 @@ const currentGoals = {
 
 ---
 
-<sub>💻 "Clean code always looks like it was written by someone who cares" - Robert C. Martin</sub>
+<sub>"Clean code always looks like it was written by someone who cares" - Robert C. Martin</sub>
 
 </div>
