@@ -81,7 +81,7 @@
 const currentGoals = {
   learning: ['Микросервисная архитектура', 'Kubernetes', 'gRPC'],
   improving: ['Docker orchestration', 'Advanced CI/CD', 'System Design'],
-  exploring: ['GraphQL Federation', 'Event Sourcing', 'CQRS Pattern']
+  exploring: ['GraphQL Federation', 'Event Sourcing']
 };
 ```
 
