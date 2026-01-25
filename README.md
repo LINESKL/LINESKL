@@ -112,6 +112,6 @@ const currentGoals = {
 
 ---
 
-<sub>"Clean code always looks like it was written by someone who cares" - Robert C. Martin</sub>
+<sub>"Тони Старк собрал мини реактор, стдя в яме... Чем я хуже?" - SNOWNUMB</sub>
 
 </div>
