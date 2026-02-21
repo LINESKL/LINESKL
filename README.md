@@ -9,6 +9,7 @@
 
 </div>
 
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+%2B+DevOps+Engineer;Java+Spring+Boot+Architecture;Next.js+%2B+React+Development;AWS+%2B+Docker+Infrastructure;Python+%2B+FastAPI+Backend;PostgreSQL+%2B+Redis+%2B+MongoDB" alt="Typing SVG" />
