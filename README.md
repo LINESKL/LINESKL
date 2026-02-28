@@ -3,10 +3,12 @@
 <h1>Привет, я LINESKL 👋</h1>
 
 ### Backend/DevOps Developer | Software Engineering 
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lineskl)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lineskl.aliar@gmail.com)
-
+  <a href="https://t.me/lineskl">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" height="50" width="50" />
+  </a>  
+  <a href="mailto:lineskl.aliar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </div>
 
 
@@ -24,44 +26,36 @@
 
 ---
 
-## Профессиональный опыт
-### MVP Volleball Academy
-**Backend/DevOps Developer** | *2026 - Настоящее время*
+> [!TIP]
+> [2026 - Настоящее время]
+> <details>
+> <summary><b>Backend/DevOps Developer — MVP Volleyball Academy</b></summary>
+>
+> <p align="justify">
+> <br>
+> • <b>Архитектура SSOT</b>: Проектирование и реализация синхронизации Google Sheets API и PostgreSQL с единым источником истины.<br>
+> • <b>Сквозная идентификация</b>: Внедрение MVP ID (Primary Key mapping), устранившее ошибки сопоставления данных на 100%.<br>
+> • <b>Shadow Profiles</b>: Разработка системы «теневых профилей» для учета игроков без приложения и обеспечения 100% охвата в финучете.<br>
+> • <b>Concurrency & Locks</b>: Решение проблемы Race Conditions через распределенные блокировки (Redis Mutex/Redlock).<br>
+> • <b>Data Cleansing</b>: Алгоритмы нечеткого поиска (Fuzzy Matching) и транслитерации для миграции legacy-данных.<br>
+> • <b>DevOps</b>: Настройка фоновых задач в Sidekiq и управление инфраструктурой на Heroku.<br>
+> </p>
+> </details>
 
-#### - Система двусторонней синхронизации и управления посещаемостью
-*   **Архитектура SSOT**: Спроектировал и реализовал систему синхронизации между **Google Sheets API** и **PostgreSQL**, установив базу данных как единый источник истины (Single Source of Truth).
-*   **Сквозная идентификация (MVP ID)**: Внедрил систему единых идентификаторов (Primary Key mapping), что позволило связать разрозненные данные из Excel с профилями в БД и устранить ошибки сопоставления по ФИО на 100%.
-*   **Shadow Profiles**: Разработал механизм «теневых профилей» для учета игроков без мобильного приложения (дети, новые клиенты), обеспечив 100% охват аудитории в системе финансового учета.
-*   **Оптимизация Concurrency**: Устранил проблему двойных списаний занятий (Race Conditions) при одновременных чекинах через внедрение распределенных блокировок (**Redis Mutex/Redlock**).
-*   **Data Cleansing**: Написал алгоритмы автоматического обогащения данных с использованием нечеткого поиска (**Fuzzy Matching**) и транслитерации для миграции legacy-данных из таблиц в SQL.
-*   **DevOps & Background Processing**: Настроил отказоустойчивую обработку фоновых задач через **Sidekiq** и оптимизировал работу с лимитами Google API. Управление инфраструктурой на платформе **Heroku**.
-
-
-
-### Агентство по регулированию и развитию финансового рынка РК (АРРФР)
-**Full-Stack Developer** | *2024 - 2025*
-
-#### - CRM-система анализа финансовой грамотности
-- Разработал полнофункциональную CRM-систему для сбора и анализа данных о финансовой грамотности населения
-- **Backend**: Django + PostgreSQL 
-- **Frontend**: Nuxt.js с SSR для административной панели
-- **Интеграция**: Telegram Bot API для автоматизированного сбора данных
-- **Результат**: Автоматизация процесса сбора данных от 10,000+ пользователей
-
-#### - Редизайн главного сайта АРРФР
-- Обновление UI/UX в соответствии с современными стандартами веб-дизайна
-- Оптимизация производительности и SEO
-- **Технологии**: Nuxt.js, TypeScript, Tailwind CSS
-
-#### - Helpdesk система для распределенных команд
-- Разработал веб-сервис управления заявками для внутренних IT-команд
-- **Функционал**: 
-  - Система тикетов с приоритизацией и назначением исполнителей
-  - Real-time уведомления через WebSockets
-  - Встраиваемые виджеты для интеграции на сторонние сайты
-  - Аналитические дашборды для руководителей
-- **Tech Stack**: Django, PostgreSQL, Kafka, Nuxt.js, Socket.io
-- **Результат**: Сокращение времени обработки заявок на 40%
+> [!NOTE]
+> [2024-2025]
+> <details>
+> <summary><b>Full-Stack Developer — АРРФР</b></summary>
+>
+> <p align="justify">
+> <br>
+> • <b>CRM-система</b>: Разработка Full-stack решения (Django + Nuxt.js) для анализа финансовой грамотности 10,000+ пользователей.<br>
+> • <b>Helpdesk Service</b>: Создание системы управления тикетами с Real-time уведомлениями через WebSockets и Kafka.<br>
+> • <b>Оптимизация</b>: Сокращение времени обработки заявок на 40% и внедрение аналитических дашбордов для руководства.<br>
+> • <b>Редизайн и UI/UX</b>: Обновление главного сайта агентства с использованием TypeScript, Tailwind CSS и SSR (Nuxt.js).<br>
+> • <b>Интеграции</b>: Разработка Telegram Bot API для автоматизированного сбора данных от населения.<br>
+> </p>
+> </details>
 
 ---
 
@@ -97,9 +91,14 @@
 **Открыт для интересных проектов, фриланса и сотрудничества**
 
 *Готов обсудить backend-разработку, DevOps-решения и архитектуру систем*
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lineskl)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lineskl.aliar@gmail.com)
+<p align="center">
+ <a href="https://t.me/lineskl">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" height="50" width="50" />
+  </a>  
+  <a href="mailto:lineskl.aliar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
