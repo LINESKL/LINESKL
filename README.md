@@ -12,7 +12,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+%2B+DevOps+Engineer;Java+Spring+Boot+Architecture;Next.js+%2B+React+Development;AWS+%2B+Docker+Infrastructure;Python+%2B+FastAPI+Backend;PostgreSQL+%2B+Redis+%2B+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=Backend+%2B+DevOps+Engineer;Java+Spring+Boot+Architecture;AWS+%2B+Docker+Infrastructure;Python+%2B+FastAPI+Backend;PostgreSQL+%2B+Redis+%2B+Kafka" alt="Typing SVG" />
 </a>
 </div>
 
@@ -25,23 +25,35 @@
 ---
 
 ## Профессиональный опыт
+### MVP Volleball Academy
+**Backend/DevOps Developer** | *2026 - Настоящее время*
+
+#### - Система двусторонней синхронизации и управления посещаемостью
+*   **Архитектура SSOT**: Спроектировал и реализовал систему синхронизации между **Google Sheets API** и **PostgreSQL**, установив базу данных как единый источник истины (Single Source of Truth).
+*   **Сквозная идентификация (MVP ID)**: Внедрил систему единых идентификаторов (Primary Key mapping), что позволило связать разрозненные данные из Excel с профилями в БД и устранить ошибки сопоставления по ФИО на 100%.
+*   **Shadow Profiles**: Разработал механизм «теневых профилей» для учета игроков без мобильного приложения (дети, новые клиенты), обеспечив 100% охват аудитории в системе финансового учета.
+*   **Оптимизация Concurrency**: Устранил проблему двойных списаний занятий (Race Conditions) при одновременных чекинах через внедрение распределенных блокировок (**Redis Mutex/Redlock**).
+*   **Data Cleansing**: Написал алгоритмы автоматического обогащения данных с использованием нечеткого поиска (**Fuzzy Matching**) и транслитерации для миграции legacy-данных из таблиц в SQL.
+*   **DevOps & Background Processing**: Настроил отказоустойчивую обработку фоновых задач через **Sidekiq** и оптимизировал работу с лимитами Google API. Управление инфраструктурой на платформе **Heroku**.
+
+
 
 ### Агентство по регулированию и развитию финансового рынка РК (АРРФР)
 **Full-Stack Developer** | *2024 - 2025*
 
-#### 🔹 CRM-система анализа финансовой грамотности
+#### - CRM-система анализа финансовой грамотности
 - Разработал полнофункциональную CRM-систему для сбора и анализа данных о финансовой грамотности населения
 - **Backend**: Django + PostgreSQL 
 - **Frontend**: Nuxt.js с SSR для административной панели
 - **Интеграция**: Telegram Bot API для автоматизированного сбора данных
 - **Результат**: Автоматизация процесса сбора данных от 10,000+ пользователей
 
-#### 🔹 Редизайн главного сайта АРРФР
+#### - Редизайн главного сайта АРРФР
 - Обновление UI/UX в соответствии с современными стандартами веб-дизайна
 - Оптимизация производительности и SEO
 - **Технологии**: Nuxt.js, TypeScript, Tailwind CSS
 
-#### 🔹 Helpdesk система для распределенных команд
+#### - Helpdesk система для распределенных команд
 - Разработал веб-сервис управления заявками для внутренних IT-команд
 - **Функционал**: 
   - Система тикетов с приоритизацией и назначением исполнителей
