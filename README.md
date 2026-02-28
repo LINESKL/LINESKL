@@ -57,46 +57,24 @@
 
 <div align="center">
   
-  <h3>Backend & Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,gradle&theme=dark" />
-  
-  <h3>Frontend & Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,figma&theme=dark" />
-  
-  <h3>Databases & Caching</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
-  
-  <h3>DevOps & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,gitlab&theme=dark" />
-  
-  <h3>Message Queues & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,grafana,prometheus&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,java,python" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring" />
+<img src="https://skillicons.dev/icons?i=postgres,firebase,redis" />
+<img src="https://skillicons.dev/icons?i=postman,docker,aws,k8s,nginx,grafana" />
+
 
 </div>
-
----
-
-## Текущий фокус
-
-```typescript
-const currentGoals = {
-  learning: ['Микросервисная архитектура', 'Kubernetes', 'gRPC'],
-  improving: ['Docker orchestration', 'Advanced CI/CD', 'System Design'],
-  exploring: ['GraphQL Federation', 'Event Sourcing']
-};
-```
 
 ---
 
 ## GitHub Statistics
 
-<div align="center">
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINESKL&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=1800)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=LINESKL&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=LINESKL&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="195" align="middle" alt="GitHub Streak" />
 
-</div>
+  <img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=LINESKL&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_radius=0" height="165" align="middle" alt="Top Langs" />
+</p>
 
 ---
 
