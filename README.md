@@ -62,10 +62,10 @@
 
 <div align="center">
 
-<table>
+<table width="96%" align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=spring" height="36" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="Backend" />
       <br>
       <b>Backend Architecture</b>
       <br>
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="ERP" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" height="36" alt="ERP" />
       <br>
       <b>Enterprise ERP</b>
       <br>
