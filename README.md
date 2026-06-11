@@ -97,7 +97,7 @@
     <td width="33%" align="center">
       <img src="https://skillicons.dev/icons?i=python" height="36" alt="Documents" />
       <br>
-      <b>Document Generation</b>
+      <b>Doc Generation</b>
       <br>
       <sub>DOCX  · server-side PDF</sub>
     </td>
