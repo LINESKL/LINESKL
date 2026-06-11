@@ -76,7 +76,7 @@
       <br>
       <b>Data Modeling</b>
       <br>
-      <sub>PostgreSQL · FK · normalization</sub>
+      <sub>FK · normalization</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
@@ -106,7 +106,7 @@
       <br>
       <b>Workflow Automation</b>
       <br>
-      <sub>approvals · statuses · processes</sub>
+      <sub>approvals · processes</sub>
     </td>
   </tr>
 </table>
