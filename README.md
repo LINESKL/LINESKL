@@ -56,11 +56,11 @@
 **ТОО «GMS Construction» — Full-Stack / DevOps Developer** · `Май 2026 — н.в.`
 
 <details>
-<summary>Enterprise ERP для строительной компании — продукт + инфраструктура (вдвоём с коллегой)</summary>
+<summary>Enterprise ERP для строительной компании — продукт + инфраструктура</summary>
 <br>
 
 - **Enterprise ERP (React 19 + FastAPI):** участие в разработке внутренней ERP — HR, снабжение, сметы, контроль стройки, документооборот.
-- **Frontend Architecture (моя зона):** типизированный API из OpenAPI-схем, server-state на TanStack Query, route-level RBAC, дизайн-система, realtime-слой на WebSocket.
+- **Frontend Architecture:** типизированный API из OpenAPI-схем, server-state на TanStack Query, route-level RBAC, дизайн-система, realtime-слой на WebSocket.
 - **Telegram Mini Apps:** мобильные клиенты на React + Telegram WebApp — единый auth-шлюз и складские операции.
 - **DevOps & CI/CD:** перевод стека на Docker Compose, пайплайны Jenkins для авто-деплоя, два окружения (dev / prod), публикация через Cloudflare Tunnel.
 - **Infrastructure:** объектное хранилище S3/MinIO, конвертация DOCX→PDF через Gotenberg, локальный AI-инференс (Ollama), nginx-gateway, управление секретами.
