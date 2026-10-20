@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>Привет, я LINESKL 👋</h1>
+<h1>Привет, я Алиар (LINESKL) 👋</h1>
 
 <h3>Full-Stack / DevOps Developer · Enterprise ERP & CRM · Clean Architecture</h3>
+
+<p>🥉 <b>Призёр HackAlem AI 2026</b> — 3 место в категории «Логистика»</p>
 
 <p>
   <a href="https://t.me/lineskl"><img src="https://img.shields.io/badge/Telegram-@lineskl-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -16,7 +18,7 @@
   <img src="https://img.shields.io/badge/Infra-Docker%20%C2%B7%20Jenkins%20%C2%B7%20Cloudflare-0D1117?style=for-the-badge&labelColor=555555" alt="Infrastructure" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F0F6FC&center=true&vCenter=true&width=760&lines=Full-Stack+%2F+DevOps+Developer;Enterprise+ERP+%26+CRM+Systems;React+%2B+TypeScript+on+the+Frontend;Java+Spring+Boot+%2B+Python+FastAPI;PostgreSQL+%2B+Redis+%2B+Kafka;Docker+%2B+Jenkins+%2B+Cloudflare;Clean+Architecture+%2B+Database+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F0F6FC&center=true&vCenter=true&width=760&lines=Full-Stack+%2F+DevOps+Developer;Enterprise+ERP+%26+CRM+Systems;React+%2B+TypeScript+on+the+Frontend;Java+Spring+Boot+%2B+Python+FastAPI;PostgreSQL+%2B+Redis+%2B+Kafka;Demand+Forecasting+%2B+LLM+Integrations;Docker+%2B+Jenkins+%2B+Cloudflare;Clean+Architecture+%2B+Database+Design" alt="Typing SVG" />
 
 </div>
 
@@ -29,6 +31,53 @@
 Люблю, когда за фичей стоит чистая архитектура: типизированные контракты между фронтом и бэком, надёжная модель данных, автоматизация бизнес-процессов, server-side генерация документов и DevOps, на котором всё это стабильно живёт.
 
 В мае 2026 завершил ключевой этап системы для **MVP Volleyball Academy** и присоединился к **ТОО «GMS Construction»**, где веду ERP для крупной строительной компании: отвечаю за frontend-архитектуру, backend и разделяю DevOps/инфраструктуру.
+
+---
+
+## Достижения
+
+- 🥉 **HackAlem AI 2026 — 3 место, категория «Логистика».** Международный AI-хакатон, вошедший в Книгу рекордов Гиннесса.
+  Проект [GrimStack](https://github.com/BAITC-Hacks/hack-aa7e8423-grimstack) — сервис автозаказа поставщикам для дистрибьютора электротехники. Роль: Tech Lead, данные и алгоритм.
+  Пресса: [Bluescreen — «Студенты AlmaU вошли в тройку призёров HackAlem AI»](https://bluescreen.kz/studenty-almau-voshli-v-troyku-prizerov-hackalem-ai-s-servisom-dlya-avtomatizacii-zakupok/)
+
+---
+
+## Избранные проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/BAITC-Hacks/hack-aa7e8423-grimstack">GrimStack</a></b> · 🥉 HackAlem AI<br>
+      <sub>Автозаказ поставщикам по выгрузкам 1С: очистка истории продаж, прогноз спроса с сезонностью и трендом, объяснение каждой цифры, сценарий «что если», выгрузка в 1С. Бэктест на 6 точках — по Systeme Electric ошибка на 16,6 % ниже метода среднего.</sub><br><br>
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LINESKL/sudo_rm_rf_datathon_26">Observer</a></b> · Datathon 2026<br>
+      <sub>Локальный AI-сервис: по записи камеры кассы находит признаки нарушений кассовой дисциплины и показывает тип, таймкод, кадры-доказательства и норму РК. Без облачных AI-сервисов.</sub><br><br>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-Computer%20Vision-555555?style=flat-square" alt="Computer Vision" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LINESKL/solana-course">Solana Course</a></b><br>
+      <sub>Программы на native Rust и Anchor, PDA, токен на Token-2022 с метаданными — всё задеплоено в devnet.</sub><br><br>
+      <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+      <img src="https://img.shields.io/badge/-Anchor-555555?style=flat-square" alt="Anchor" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LINESKL/Fitness-Planner">Fitness Planner</a></b><br>
+      <sub>Дневник силовых тренировок для Android и iOS: подходы и веса, прошлый результат перед упражнением, графики прогресса.</sub><br><br>
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,6 +94,11 @@
     <td align="center" width="20%"><b>Frontend</b><br><br><img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind" alt="Frontend" /></td>
     <td align="center" width="20%"><b>Infrastructure</b><br><br><img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,cloudflare" alt="Infrastructure" /></td>
     <td align="center" width="20%"><b>Tools</b><br><br><img src="https://skillicons.dev/icons?i=grafana,postman,firebase,git,github" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>AI & Data</b><br><br><sub>pandas · NumPy · прогноз спроса<br>OpenAI API · Ollama</sub></td>
+    <td align="center" width="20%"><b>Mobile</b><br><br><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" /></td>
+    <td align="center" width="20%"><b>Web3</b><br><br><img src="https://skillicons.dev/icons?i=rust" alt="Web3" /></td>
   </tr>
 </table>
 </div>
