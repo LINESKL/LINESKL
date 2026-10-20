@@ -2,14 +2,6 @@
 
 <div align="center">
 
-<h3>Привет, я Алиар 👋 Проектирую и запускаю ERP/CRM-системы целиком — от интерфейса до инфраструктуры</h3>
-
-<a href="https://bluescreen.kz/studenty-almau-voshli-v-troyku-prizerov-hackalem-ai-s-servisom-dlya-avtomatizacii-zakupok/"><img src="https://img.shields.io/badge/🥉%20HackAlem%20AI%202026-3%20место%20·%20Логистика-CD7F32?style=for-the-badge&labelColor=0D1117" alt="HackAlem AI 2026 — 3 место" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=900&color=7FD4FF&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%C2%B7+FastAPI+%C2%B7+Spring;PostgreSQL+%C2%B7+Redis+%C2%B7+Kafka;Docker+%C2%B7+Jenkins+%C2%B7+Cloudflare;Demand+forecasting+%C2%B7+LLM+integrations" alt="Typing SVG" />
-
 <p>
   <a href="https://t.me/lineskl"><img src="https://img.shields.io/badge/Telegram-@lineskl-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:lineskl.aliar@gmail.com"><img src="https://img.shields.io/badge/Gmail-lineskl.aliar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
