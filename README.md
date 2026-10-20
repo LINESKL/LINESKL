@@ -1,24 +1,20 @@
+<img src="assets/header.svg" width="100%" alt="Aliar Nurkanat — Full-Stack / DevOps Developer" />
+
 <div align="center">
 
-<h1>Привет, я Алиар (LINESKL) 👋</h1>
+<h3>Привет, я Алиар 👋 Проектирую и запускаю ERP/CRM-системы целиком — от интерфейса до инфраструктуры</h3>
 
-<h3>Full-Stack / DevOps Developer · Enterprise ERP & CRM · Clean Architecture</h3>
+<a href="https://bluescreen.kz/studenty-almau-voshli-v-troyku-prizerov-hackalem-ai-s-servisom-dlya-avtomatizacii-zakupok/"><img src="https://img.shields.io/badge/🥉%20HackAlem%20AI%202026-3%20место%20·%20Логистика-CD7F32?style=for-the-badge&labelColor=0D1117" alt="HackAlem AI 2026 — 3 место" /></a>
 
-<p>🥉 <b>Призёр HackAlem AI 2026</b> — 3 место в категории «Логистика»</p>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=900&color=7FD4FF&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%C2%B7+FastAPI+%C2%B7+Spring;PostgreSQL+%C2%B7+Redis+%C2%B7+Kafka;Docker+%C2%B7+Jenkins+%C2%B7+Cloudflare;Demand+forecasting+%C2%B7+LLM+integrations" alt="Typing SVG" />
 
 <p>
   <a href="https://t.me/lineskl"><img src="https://img.shields.io/badge/Telegram-@lineskl-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:lineskl.aliar@gmail.com"><img src="https://img.shields.io/badge/Gmail-lineskl.aliar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/LINESKL"><img src="https://img.shields.io/badge/GitHub-LINESKL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Almaty,%20KZ-1E7BFF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Almaty" />
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=LINESKL&label=Profile%20views&color=555555&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20DevOps-0D1117?style=for-the-badge&labelColor=555555" alt="Full-Stack + DevOps" />
-  <img src="https://img.shields.io/badge/Infra-Docker%20%C2%B7%20Jenkins%20%C2%B7%20Cloudflare-0D1117?style=for-the-badge&labelColor=555555" alt="Infrastructure" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=800&color=F0F6FC&center=true&vCenter=true&width=760&lines=Full-Stack+%2F+DevOps+Developer;Enterprise+ERP+%26+CRM+Systems;React+%2B+TypeScript+on+the+Frontend;Java+Spring+Boot+%2B+Python+FastAPI;PostgreSQL+%2B+Redis+%2B+Kafka;Demand+Forecasting+%2B+LLM+Integrations;Docker+%2B+Jenkins+%2B+Cloudflare;Clean+Architecture+%2B+Database+Design" alt="Typing SVG" />
 
 </div>
 
@@ -96,7 +92,7 @@
     <td align="center" width="20%"><b>Tools</b><br><br><img src="https://skillicons.dev/icons?i=grafana,postman,firebase,git,github" alt="Tools" /></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>AI & Data</b><br><br><sub>pandas · NumPy · прогноз спроса<br>OpenAI API · Ollama</sub></td>
+    <td align="center" width="20%"><b>AI & Data</b><br><br><img src="assets/icon-pandas.svg" width="48" alt="pandas" /> <img src="assets/icon-numpy.svg" width="48" alt="NumPy" /> <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" /> <img src="assets/icon-ollama.svg" width="48" alt="Ollama" /></td>
     <td align="center" width="20%"><b>Mobile</b><br><br><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" /></td>
     <td align="center" width="20%"><b>Web3</b><br><br><img src="https://skillicons.dev/icons?i=rust" alt="Web3" /></td>
   </tr>
