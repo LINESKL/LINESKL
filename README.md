@@ -52,8 +52,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/LINESKL/solana-course">Solana Course</a></b><br>
-      <sub>Программы на native Rust и Anchor, PDA, токен на Token-2022 с метаданными — всё задеплоено в devnet.</sub><br><br>
+      <b><a href="https://github.com/S-NOWNUM-B/app.Anchorkeep">Anchorkeep</a></b><br>
+      <sub>Офлайн-сейф для паролей и заметок на Android и Windows: Argon2id + AES-256-GCM, без сервера и регистрации. Хеш и версия каждого бэкапа заверяются в Solana — подмену или откат на старый файл видно при импорте.</sub><br><br>
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
       <img src="https://img.shields.io/badge/-Anchor-555555?style=flat-square" alt="Anchor" />
