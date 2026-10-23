@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "login": "LINESKL",
+  "seed": "#1E7BFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": ["stats"],
+  "hidden": ["streak", "hero", "about", "stack", "projects", "socials", "wave", "buttons"],
+  "hero": { "greeting": "", "name": "", "subtitle": "", "typing": false, "avatarShape": "cookie12", "chips": [] },
+  "about": { "title": "", "items": [] },
+  "stack": { "title": "", "groups": [] },
+  "projects": { "source": "pinned", "repos": [], "overrides": {}, "empty": "", "fork": "Fork" },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": false
+  },
+  "streak": { "title": "Серия", "current": "Текущая серия", "longest": "Рекорд за год", "days": "дн." },
+  "socials": { "items": [], "variant": "chip", "fill": "tonal", "card": false },
+  "buttons": { "items": [], "card": false }
+}

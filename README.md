@@ -166,13 +166,11 @@
 
 ---
 
-## GitHub Statistics
+## Активность на GitHub
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/assets/stats-dark.svg"><img src="cards/assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
-<img src="https://streak-stats.demolab.com?user=LINESKL&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
-
-</div>
+<sub>Карточка обновляется GitHub Action через рендерер <a href="https://github.com/metawka/expressive-profile">Expressive Profile</a>.</sub>
 
 ---
 
