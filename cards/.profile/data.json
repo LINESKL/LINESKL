@@ -1,5 +1,5 @@
 {
- "key": "c45c886e",
+ "key": "f889caf",
  "stars": 0,
  "contributions": 3485,
  "repos": 11,
@@ -133,9 +133,13 @@
    {
     "c": 49,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
